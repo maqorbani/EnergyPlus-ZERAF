@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper and identify the source commit or release used."
+type: software
+title: "ZERAF research extensions for EnergyPlus 23.2.0"
+authors:
+  - family-names: Qorbani
+    given-names: Mohammad Ali
+    affiliation: Eindhoven University of Technology
+repository-code: "https://github.com/maqorbani/EnergyPlus-ZERAF"
+url: "https://doi.org/10.1080/19401493.2026.2758619"
+preferred-citation:
+  type: article
+  title: "Capturing dynamic thermal behaviour of adaptive opaque façades in building performance simulation: a case study of Zeraf"
+  authors:
+    - family-names: Qorbani
+      given-names: Mohammad Ali
+    - family-names: Isaia
+      given-names: Francesco
+    - family-names: Juaristi
+      given-names: Miren
+    - family-names: Loonen
+      given-names: Roel
+  journal: Journal of Building Performance Simulation
+  year: 2026
+  month: 11
+  day: 11
+  doi: "10.1080/19401493.2026.2758619"
+  url: "https://doi.org/10.1080/19401493.2026.2758619"
